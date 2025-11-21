@@ -1,0 +1,5 @@
+{
+  "name": "xpanda0",
+  "description": "A web-based utility to visualize directory structures from indented text. Paste your text-based file tree to see an interactive, expandable, and collapsible view.",
+  "requestFramePermissions": []
+}
